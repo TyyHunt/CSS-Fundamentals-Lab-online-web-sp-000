@@ -25,17 +25,17 @@ figure figcaption {
   font-size: .75em;
 }
 
-section#featured-property p {
+section #featured-property p {
   margin: auto;
   width: 800px;
   text-align: center;
 }
 
-section#details {
+section #details {
   display: block;
 }
 
-section#details div {
+section #details div {
   float: left;
   background-color: #ccc;
   width: 25%;
